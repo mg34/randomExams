@@ -1,5 +1,5 @@
 # randomExams
-a miniproject to select a random form and take it to the client side.
+A miniproject to select a random form and take it to the client side.
 
 The workflow of this project is:
 
